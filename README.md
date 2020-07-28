@@ -15,9 +15,7 @@ I started learning practical skills from the first year of my bachelors on my ow
 
 
 ## 📫 Contact Me
-- Twitter - [@gauravc12](https://twitter.com/gauravc12)
-- LinkedIn - [Gaurav Chouhan](https://in.linkedin.com/in/gauravc12)
-- Blog - [GC Codes](https://gc-codes.com)
+
 
 ---
 ⭐️ From [gc-codes](https://github.com/gc-codes)
