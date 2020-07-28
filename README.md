@@ -7,7 +7,7 @@ I started learning practical skills from the first year of my bachelors on my ow
 - Snake Game (C#, windows form)
 - Script-o-compiler (compiler written in typescript)
 - MS Paint Replica (OpenGL, C++)
-- A 2D Game; Pappy Khalabaz  (unity3d, C#)
+- A 2D Game; Pappu Khalabaz  (unity3d, C#)
 - FYP; Pocket Accountant (Personal expense and finance tracker with speech recognition) 
 
 
